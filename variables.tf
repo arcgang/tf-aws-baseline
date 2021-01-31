@@ -17,7 +17,7 @@ variable "environment" {
 
 variable "region_primary" {
     description = "AWS region to deploy"
-    default = "eu-east-1"
+    default = "us-east-1"
 }
 
 
